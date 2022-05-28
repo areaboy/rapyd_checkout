@@ -25,6 +25,9 @@ This Application was written with **PHP, Mysql, Jquery/Ajax, Bootstrap 5 etc.**
 
 2.) Clone this Application from Github repositories and unzip it. 
 
+**Note: Github web Interface File uploader allows maximum of just 100 files uploads at ago so we have have to split our code  into two parts for easier upload. ie the mn application and mail_vendor.zip**
+
+
 3.) Download the Email Clients folder **mail_vendor.zip** (We are using php Emailer) from our Website. **https://fredjarsoft.com/mail_vendor.zip** and unzip 
  it directly inside the main application source code folder **(/rapyd_checkout/)** and everything will be fine.
 Finally you will have **(rapyd_checkout/mail_vendor)**
