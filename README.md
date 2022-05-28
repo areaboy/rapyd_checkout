@@ -31,7 +31,7 @@ Finally you will have **(rapyd_checkout/mail_vendor)**
 
                OR
 
-Alternatively, You can download the Entire Applications Source Code  from our Website. No need of downloading the mail_vendor.zip seperately.
+Alternatively, You can download the Entire Applications Source Code  from our Website. No need of downloading the **mail_vendor.zip** seperately.
 
 **https://fredjarsoft.com/rapyd_checkout.zip**
 
