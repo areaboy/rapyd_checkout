@@ -554,7 +554,9 @@ $id = $v1['id'];
 <div id="result-load-updates_emaile"></div>
 
 <div class='continue_box'></div>
+<div class='social_box'></div>
 <div class='create_accountx'></div>
+
 
                 </div>
             </div>
@@ -845,6 +847,8 @@ if(clt != ''){
         //$('#myModal_social').modal('show');
     
     $(".continue_box").html("<br><div style='background:navy;color:white;padding:20px;border:none;border-radius:20%;'><a style='color:white;' href='dashboard_customer.php'>Go To Your Dashboard to View Your Purchase</a></div>");
+    
+        $(".social_box").html("<br><div  data-bs-toggle='modal' data-bs-target='#myModal_social' style='background:fuchsia;color:white;padding:20px;border:none;border-radius:20%;'>Share Your Purchase Item on Social Network</div>");
    
    
 }
@@ -863,6 +867,9 @@ if(cltx == ''){
          $(".create_accountx").html('<br><br><div class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal_create_account" style="background:#ddd;color:black;padding:20px;border:none;border-radius:20%;cursor:pointer" >Click to Create An Account with Us(Optional) Or  Clear Your Session</div>');
         });
 
+
+      $(".social_box").html("<br><div  data-bs-toggle='modal' data-bs-target='#myModal_social' style='background:fuchsia;color:white;padding:20px;border:none;border-radius:20%;'>Share Your Purchase Item on Social Network</div>");
+   
 
  //$(".hide_unhide").show();
 }
