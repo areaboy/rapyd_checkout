@@ -28,12 +28,12 @@ $site_url=  "fredjarsoft.com/rapyd_checkout";
 
 // Your Seller or Company Name
 $company_name ='Rapyd Single Page Checkout Sales.';
-$company_email ='esedofredrick@gmail.com';
+$company_email ='your company email to recieve payment and sales alert goes here';
 
 // Email Server Setup
-$smtp_email_host ='mail.fredjarsoft.com';  //Eg. mail.gmail.com
-$smtp_email_username ='support@fredjarsoft.com';
-$smtp_email_password ='mypass9078';
+$smtp_email_host ='mail.example.com goes here';  //Eg. mail.gmail.com
+$smtp_email_username ='support@example.com';
+$smtp_email_password ='your email password goes here';
 $smtp_email_port ='587';
 
 
